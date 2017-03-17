@@ -11,11 +11,15 @@ only add the necessary changes by git add, use git reset -hard to cancel the cha
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+want to create different flavor of same app, not affect each other
 
 How do the diagrams help you visualize the branch structure?
+help me to find the unreachable point
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+two commits together
 
 What are the pros and cons of Git¡¯s automatic merging vs. always doing merges
 manually?
+speed of automatic merging, may be surprising. manual merge is confusing. 
